@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401300339004",
+    "project_id": "smile-detection-84a25",
+    "storage_bucket": "smile-detection-84a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401300339004:android:9a430992d4ef32975e8639",
+        "android_client_info": {
+          "package_name": "uhk.sa.smartarchive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401300339004-qbg7rk58qq6b532m897kjs98iarpmh39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cdvqIrPyYg6PKW94DqPE-dcyMCEVMjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401300339004-qbg7rk58qq6b532m897kjs98iarpmh39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
